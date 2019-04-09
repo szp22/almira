@@ -1,0 +1,12 @@
+h1 {
+	color : red ;
+	background-image: linear-gradient(red, black);
+	text-decoration: linear-gradient(green, cyan);
+}
+p {
+	color : green ;
+	border : 1px solid blue ;
+	background-image: linear-gradient(orange, yellow);
+}
+
+	
